@@ -1,0 +1,4 @@
+hbase
+=====
+
+hbase namespace feature
